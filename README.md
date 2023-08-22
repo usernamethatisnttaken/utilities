@@ -8,4 +8,5 @@ I'd appreciate if you'd credit me if you share, etc.. Thanks!
 Creates a progress bar to gauge the time until a process is done
 
 Threading: Parallel
+
 Estimated Load: Low-Tiny
