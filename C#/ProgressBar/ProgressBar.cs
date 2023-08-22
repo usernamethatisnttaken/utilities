@@ -16,7 +16,7 @@ namespace progressBar {
         private string[] caps = new string[2];
 
         /// <param name="capacity">The max progress of the bar</param>
-        /// <param name="units">How many progress == one bar segment (-1 == default/25)</param>
+        /// <param name="units">How many progress is equal to one bar segment (-1 = default/25)</param>
         /// <param name="barType">The type of bar to display</param>
         /// <param name="dispTime">Display the time elapsed on the slides?</param>
         /// <param name="dispProgress">Display the progress on the slides?</param>
@@ -39,7 +39,7 @@ namespace progressBar {
         /// </summary>
         public void Start() {
             Action action = Bar;
-            // switch(barType) {}
+            // switch(barType) {} // Suppresses an error
             Thread bar = new(new ThreadStart(action));
             bar.Start();
         }
@@ -64,6 +64,13 @@ namespace progressBar {
             }
         }
 
+        /// <summary>
+        /// Returns the suffix/slide to the loading bar (basically all of the extra info)
+        /// </summary>
+        /// <param name="slideIndex">The currently displayed slide</param>
+        /// <param name="start">The start time of the process</param>
+        /// <param name="accessTick">How many times the progress bar has updated</param>
+        /// <returns></returns>
         private string GetSuffix(int slideIndex, DateTime start, int accessTick) {
             string result = "    ";
             string[] slides = new string[]{"", ""};
@@ -104,6 +111,19 @@ namespace progressBar {
 
         public void SetBarType(BarType barType) {
             this.barType = barType;
+        }
+
+        public void DisplayTime(bool value = true) {
+            dispTime = value;
+        }
+
+        public void DisplayProgress(bool value = true) {
+            dispProgress = value;
+        }
+
+        public void SetBarCaps(string startCap, string endCap) {
+            caps[0] = startCap;
+            caps[1] = endCap;
         }
 
         public static ProgressBar operator ++(ProgressBar current) {
