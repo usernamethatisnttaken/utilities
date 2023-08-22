@@ -1,0 +1,15 @@
+C:\Users\hudjo\PythonRepos\utilities\obj\Debug\net6.0\utilities.csproj.AssemblyReference.cache
+C:\Users\hudjo\PythonRepos\utilities\obj\Debug\net6.0\utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudjo\PythonRepos\utilities\obj\Debug\net6.0\utilities.AssemblyInfoInputs.cache
+C:\Users\hudjo\PythonRepos\utilities\obj\Debug\net6.0\utilities.AssemblyInfo.cs
+C:\Users\hudjo\PythonRepos\utilities\obj\Debug\net6.0\utilities.csproj.CoreCompileInputs.cache
+C:\Users\hudjo\PythonRepos\utilities\bin\Debug\net6.0\utilities.exe
+C:\Users\hudjo\PythonRepos\utilities\bin\Debug\net6.0\utilities.deps.json
+C:\Users\hudjo\PythonRepos\utilities\bin\Debug\net6.0\utilities.runtimeconfig.json
+C:\Users\hudjo\PythonRepos\utilities\bin\Debug\net6.0\utilities.dll
+C:\Users\hudjo\PythonRepos\utilities\bin\Debug\net6.0\utilities.pdb
+C:\Users\hudjo\PythonRepos\utilities\obj\Debug\net6.0\utilities.dll
+C:\Users\hudjo\PythonRepos\utilities\obj\Debug\net6.0\refint\utilities.dll
+C:\Users\hudjo\PythonRepos\utilities\obj\Debug\net6.0\utilities.pdb
+C:\Users\hudjo\PythonRepos\utilities\obj\Debug\net6.0\utilities.genruntimeconfig.cache
+C:\Users\hudjo\PythonRepos\utilities\obj\Debug\net6.0\ref\utilities.dll
