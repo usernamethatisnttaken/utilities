@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hudjo\\PythonRepos\\utilities\\utilities.csproj": {}
+    "c:\\Users\\hudjo\\PythonRepos\\utilities\\utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hudjo\\PythonRepos\\utilities\\utilities.csproj": {
+    "c:\\Users\\hudjo\\PythonRepos\\utilities\\utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hudjo\\PythonRepos\\utilities\\utilities.csproj",
+        "projectUniqueName": "c:\\Users\\hudjo\\PythonRepos\\utilities\\utilities.csproj",
         "projectName": "utilities",
-        "projectPath": "C:\\Users\\hudjo\\PythonRepos\\utilities\\utilities.csproj",
+        "projectPath": "c:\\Users\\hudjo\\PythonRepos\\utilities\\utilities.csproj",
         "packagesPath": "C:\\Users\\hudjo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hudjo\\PythonRepos\\utilities\\obj\\",
+        "outputPath": "c:\\Users\\hudjo\\PythonRepos\\utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hudjo\\AppData\\Roaming\\NuGet\\NuGet.Config",
