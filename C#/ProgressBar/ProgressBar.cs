@@ -3,7 +3,7 @@ namespace progressBar {
     /// Provides a loading bar to play around with.
     /// </summary>
     public class ProgressBar {
-        private int consoleAccessMs;
+        public int consoleAccessMs;
         private int capacity;
         private int units;
         private int progress;
@@ -62,6 +62,8 @@ namespace progressBar {
                 accessTick++;
                 Thread.Sleep(consoleAccessMs);
             }
+
+            Console.WriteLine();
         }
 
         /// <summary>
