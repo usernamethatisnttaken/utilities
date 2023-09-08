@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "ZwG6a4wgicqpwCCcuvGpQQaJaqSgnSO3OwItg01MwUGQdPfhB10aCvcN8xtIl3eIPOK1ouHlOpuO60m0eEV8Aw==",
+  "dgSpecHash": "4EbHi8z9iJVLszSMDr9wwfaJS6tsIy+G4LMxbw+AA3S7QNLUZu8nAl6gOQl33aTbT7YXVHZwn5zjLyghFzEjTg==",
   "success": true,
   "projectFilePath": "c:\\Users\\hudjo\\PythonRepos\\utilities\\utilities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hudjo\\.nuget\\packages\\opentk\\4.8.0\\opentk.4.8.0.nupkg.sha512",
+    "C:\\Users\\hudjo\\.nuget\\packages\\opentk.audio.openal\\4.8.0\\opentk.audio.openal.4.8.0.nupkg.sha512",
+    "C:\\Users\\hudjo\\.nuget\\packages\\opentk.compute\\4.8.0\\opentk.compute.4.8.0.nupkg.sha512",
+    "C:\\Users\\hudjo\\.nuget\\packages\\opentk.core\\4.8.0\\opentk.core.4.8.0.nupkg.sha512",
+    "C:\\Users\\hudjo\\.nuget\\packages\\opentk.graphics\\4.8.0\\opentk.graphics.4.8.0.nupkg.sha512",
+    "C:\\Users\\hudjo\\.nuget\\packages\\opentk.input\\4.8.0\\opentk.input.4.8.0.nupkg.sha512",
+    "C:\\Users\\hudjo\\.nuget\\packages\\opentk.mathematics\\4.8.0\\opentk.mathematics.4.8.0.nupkg.sha512",
+    "C:\\Users\\hudjo\\.nuget\\packages\\opentk.redist.glfw\\3.3.8.38\\opentk.redist.glfw.3.3.8.38.nupkg.sha512",
+    "C:\\Users\\hudjo\\.nuget\\packages\\opentk.windowing.common\\4.8.0\\opentk.windowing.common.4.8.0.nupkg.sha512",
+    "C:\\Users\\hudjo\\.nuget\\packages\\opentk.windowing.desktop\\4.8.0\\opentk.windowing.desktop.4.8.0.nupkg.sha512",
+    "C:\\Users\\hudjo\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.8.0\\opentk.windowing.graphicslibraryframework.4.8.0.nupkg.sha512",
+    "C:\\Users\\hudjo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
